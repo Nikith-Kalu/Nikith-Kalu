@@ -1,5 +1,5 @@
 <h1 align="center">Hello! My name is Nikith Kaluwitharana</h1>
-<h3 align="center">A student studying a double degree in Engineering Computer and Network Systems, and Computer Science at RMIT University.</h3>
+<h3 align="center">A student studying a Bachelors degree in Computer Science at RMIT University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikith-kalu&label=Profile%20views&color=0e75b6&style=flat" alt="nikith-kalu" /> </p>
 
