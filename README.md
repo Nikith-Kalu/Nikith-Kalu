@@ -7,8 +7,7 @@
 </div>  
   
 
-### <div align="center">
-<h1>My name is Nikith Kaluwitharana!</h1>
+# <div align="center">My name is Nikith Kaluwitharana!
 
 </div>  
   
