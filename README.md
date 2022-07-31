@@ -16,7 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikith-kalu&show_icons=true&count_private=true&locale=en&layout=compact&theme=gotham" alt="nikith-kalu" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikith-kalu&count_private&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikith-kalu&show_icons=true&locale=en&theme=gotham" alt="nikith-kalu" /></p>
 
