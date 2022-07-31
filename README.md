@@ -8,7 +8,7 @@
   
 
 ### <div align="center">
-<center><h1>My name is Nikith Kaluwitharana!</h1></center>
+<h1>My name is Nikith Kaluwitharana!</h1>
 
 </div>  
   
