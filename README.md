@@ -71,9 +71,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 </div>
 
-<br/>  
+<br/> 
 
-
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikith-Kalu&theme=dark&hide_border=true&layout=compact" align="center" /></div>
 <br />
