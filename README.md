@@ -25,9 +25,6 @@
   
 
 - He wanted me to inform you the last one was a joke  
-  
- 
-<br/>
 
 <h6><i> psst, check out my leetcode profile :3 --> </i> https://leetcode.com/Nikith-Kalu/ </h6>
 
