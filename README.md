@@ -12,7 +12,7 @@
 </div>  
   
 
-- Student studying Bachelor of Computer Science at RMIT Univerity  
+- Student studying Bachelor of Computer Science with a Major in Data Science at Deakin Univerity  
   
 
 - Web developer? More like weeb developer :/  
