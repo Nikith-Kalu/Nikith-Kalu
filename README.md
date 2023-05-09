@@ -15,7 +15,7 @@
 - Student studying Bachelor of Computer Science with a major in Data Science at Deakin Univerity  
   
 
-- Web developer? More like weeb developer :/  
+- Co Founder of <a href="https://sanik.dev">SANIK</a>
   
 
 - Wonders how his stupidity hasn't killed him yet  
