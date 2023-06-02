@@ -1,5 +1,7 @@
+<div align="center">
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001440.17e89e0b4479468a831042d0b4871d9a.0534)](https://github.com/rayriffy/apple-music-github-profile)  
-
+</div>
+  
 <br/>  
 
 <div align="center">
