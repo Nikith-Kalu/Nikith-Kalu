@@ -1,9 +1,3 @@
-
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001440.17e89e0b4479468a831042d0b4871d9a.0534)](https://github.com/rayriffy/apple-music-github-profile)
-
-  
-<br/>  
-
 <div align="center">
 <img src="https://stickershop.line-scdn.net/stickershop/v1/product/6887233/LINEStorePC/main.png;compress=true" align="center" height="" width="" />
 </div>  
