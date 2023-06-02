@@ -1,4 +1,4 @@
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=1xt1wv95ltfdx7bn0z5ysv7u7&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />  
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001440.17e89e0b4479468a831042d0b4871d9a.0534)](https://github.com/rayriffy/apple-music-github-profile)  
 
 <br/>  
 
