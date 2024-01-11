@@ -11,18 +11,9 @@
 - Student studying Bachelor of Computer Science with a major in Data Science at Deakin Univerity  
   
 
-- Co Founder of <a href="https://sanik.dev">SANIK</a>
-  
+- Co Founder of <a href="https://sanik.dev">SANIK</a> 
 
-- Wonders how his stupidity hasn't killed him yet  
-  
-
-- Probably thinking about the political and economic state of the world  
-  
-
-- He wanted me to inform you the last one was a joke  
-
-<h6><i> psst, check out my leetcode profile :3 --> </i> https://leetcode.com/Nikith-Kalu/ </h6>
+<h6><i> psst, check out my leetcode profile --> </i> https://leetcode.com/Nikith-Kalu/ </h6>
 
 <br/>  
 
