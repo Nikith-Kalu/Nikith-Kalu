@@ -6,16 +6,6 @@
 # <div align="center">My name is Nikith Kaluwitharana!
 
 </div>  
-  
-
-- Student studying Bachelor of Computer Science with a major in Data Science at Deakin Univerity  
-  
-
-- Co Founder of <a href="https://sanik.dev">SANIK</a> 
-
-<h6><i> psst, check out my leetcode profile --> </i> https://leetcode.com/Nikith-Kalu/ </h6>
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=nikith-kalu&&style=flat-square" align="center" />
